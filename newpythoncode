@@ -1,2 +1,2 @@
-a = "hello world"
-print(a)
+a = "hello world"  # assigning the variable
+print(a)        # printing the variable  
