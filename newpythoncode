@@ -1,6 +1,0 @@
-a = "hello world"  # assigning the variable
-print(a)        # printing the variable 
-
-Output
-Hello world
-This will be output
